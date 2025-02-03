@@ -1,6 +1,7 @@
 # Nome do Projeto
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Status](https://img.shields.io/badge/status-completo-yellow) ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg) ![Feito com Amor](https://img.shields.io/badge/feito%20com-%E2%9D%A4-purple)
+![Status](https://img.shields.io/badge/status-completo-yellow) ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg) ![Feito com Amor](https://img.shields.io/badge/feito%20com-%E2%9D%A4-purple)
 
 ## 📌 Índice
 
