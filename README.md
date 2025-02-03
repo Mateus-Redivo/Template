@@ -16,7 +16,7 @@
 
 ## 📖 Sobre o Projeto
 
-Descrição: Uma aplicação web estática e simples, composta por arquivos HTML, CSS e JavaScript com intuito de realizar um sorteio de amigos para um jogo de amigo secreto. O sorteio é feito de forma divertida e aleatória, com uma animação de confetes após aparecer o nome do sorteado. O projeto foi desenvolvido como um desafio do curso do programa ONE (Oracle Next Education) em parceria com a Alura.
+Descrição: .
 
 Funcionalidades:
 
