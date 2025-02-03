@@ -111,7 +111,7 @@ Caso tenha dúvidas ou sugestões, entre em contato:
 
 - **Nome:** Mateus Redivo
 - **Email:** ms.redivo@gmail.com
-- **LinkedIn:** [linkedin](https://www.linkedin.com/in/mateus-redivo-devback/)
-- **GitHub:** [usuario](https://github.com/Mateus-Redivo)
+- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/mateus-redivo-devback/)
+- **GitHub:** [Usuario](https://github.com/Mateus-Redivo)
 
 ---
