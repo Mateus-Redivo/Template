@@ -20,25 +20,17 @@ Descrição: .
 
 Funcionalidades:
 
-- **Adicionar nomes:**  
-  - Os usuários escrevem o nome de um amigo em um campo de texto e o adicionam a uma lista visível ao clicar em "Adicionar".
+- **1:**  
+  - .
 
-- **Validar entrada:**  
-  - Se o campo de texto estiver vazio, o programa exibe um alerta solicitando um nome válido.  
-  - Se o usuário tentar inserir um nome já presente na lista, um prompt perguntará se deseja adicionar o nome repetido.
+- **2:**  
+  - . 
+  - .
 
-- **Ativar o botão "Sortear":**  
-  - O botão de sorteio fica desativado até que ao menos três nomes sejam adicionados à lista.
+- **3:**  
+  - .
 
-- **Visualizar a lista:**  
-  - Os nomes inseridos aparecem em uma lista abaixo do campo de entrada.
-
-- **Sorteio aleatório:**  
-  - Ao clicar no botão "Sortear Amigo", um nome da lista é selecionado aleatoriamente e exibido na página.  
-  - Após o sorteio, os nomes da lista são apagados.  
-  - Uma animação de confetes é exibida após apresentar o nome sorteado.
-
-![Demonstração da Aplicação](assets/desafio-amigo-secreto.gif)
+![Demonstração da Aplicação]()
 
 ## 🛠 Tecnologias Utilizadas
 
@@ -46,8 +38,7 @@ Lista das tecnologias, frameworks e bibliotecas utilizadas no projeto:
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)  
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-- [Confetti.js](https://www.kirilv.com/canvas-confetti/) (para a animação de confetes)  
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)    
 
 ## 🔧 Pré-requisitos
 
@@ -63,8 +54,6 @@ Antes de começar, certifique-se de ter os seguintes requisitos instalados:
 2. **Editor de Código (Opcional, mas recomendado)**  
    - Para visualizar e editar os arquivos do projeto, recomenda-se o uso de um editor de código, como:  
      - [Visual Studio Code](https://code.visualstudio.com/)  
-     - [Sublime Text](https://www.sublimetext.com/)  
-     - [Atom](https://atom.io/)  
 
 Certifique-se de que seu navegador esteja atualizado para garantir compatibilidade com as tecnologias utilizadas no projeto.
 
@@ -74,7 +63,7 @@ Siga os passos abaixo para configurar o ambiente de desenvolvimento:
 
 1. Clone o repositório:
    ```sh
-   git clone git@github.com:Alexander-Martins/desafio-amigo-secreto.git
+   git clone 
    ```
 2. Acesse o diretório do projeto:
    ```sh
@@ -85,27 +74,21 @@ Siga os passos abaixo para configurar o ambiente de desenvolvimento:
 
 Como executar e utilizar o projeto:
 
-Acesse no navegador: `https://alexander-martins.github.io/desafio-amigo-secreto/`
+Acesse no navegador:
 
 ## 📁 Estrutura do Projeto
 
-Na pasta principal Desafio-amigo-secreto temos a pasta assets, que contem as imagens utilizadas no nosso arquivo CSS e fornecidas pelo curso e uma gif feita por mim para demonstrar a aplicação. 
-
-Em sequência temos os arquivos que compõem a aplicação web, o JavaScript app.JS, o HTML index.html e o CSS style.css.
-
-Por ultimo, temos os arquivos texto README e LICENSE.
-
 ```
-📂 Desafio-amigo-secreto
+📂 
  ├── 📁 assets
- │   ├── 📸 amigo-secreto.png
- │   ├── 📸 play_circle_outline.png
- │   ├── 📸 desafio-amigo-secreto.gif
- ├── 🟨 app.js
- ├── 🟠 index.html
- ├── 📄 LICENSE.txt
- ├── 📄 README.md
- ├── 🔵 style.css
+ │   ├── 📸 
+ │   ├── 📸 
+ │   ├── 📸 
+ ├── 🟨
+ ├── 🟠 
+ ├── 📄 
+ ├── 📄 
+ ├── 🔵 
 ```
 
 ## 🤝 Contribuição
@@ -126,9 +109,9 @@ Este projeto está sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) pa
 
 Caso tenha dúvidas ou sugestões, entre em contato:
 
-- **Nome:** Alexander Martins
-- **Email:** Martins.adm.tf@gmail.com
-- **LinkedIn:** [linkedin](https://www.linkedin.com/in/alexander-martins-118562210/)
-- **GitHub:** [usuario](https://github.com/Alexander-Martins)
+- **Nome:** Mateus Redivo
+- **Email:** ms.redivo@gmail.com
+- **LinkedIn:** [linkedin](https://www.linkedin.com/in/mateus-redivo-devback/)
+- **GitHub:** [usuario](https://github.com/Mateus-Redivo)
 
 ---
